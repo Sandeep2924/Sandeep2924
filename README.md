@@ -78,10 +78,9 @@ const sandeep = {
 ---
 
 ## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Sandeep2924&theme=tokyonight&no-frame=false&no-bg=false&margin-w=6&row=1" />
-</div>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Sandeep2924&theme=tokyonight&column=7" />
+</p>
 
 ---
 
