@@ -19,8 +19,8 @@
 <img src="https://skillicons.dev/icons?i=instagram" />
 </a>
 
-<a href="https://twitter.com/yourid">
-<img src="https://skillicons.dev/icons?i=twitter" />
+<a href="https://www.linkedin.com/in/sandeep-kumar14/">
+<img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 </p>
 <h3 align="left">Languages and Tools:</h3>
