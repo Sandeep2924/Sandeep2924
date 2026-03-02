@@ -6,5 +6,5 @@
 - 💬 Ask me about **React, Node.js**
 - 📫 How to reach me: sandeepkumar362924@gmail.com
 - <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/181963450?s=96&v=4" width="200" style="border-radius:50%" />
+  <img src="https://drive.google.com/file/d/1HmCQrb7rHA5giOBnshsOaoXzzJ3bJ2MR/view?usp=drivesdk" width="200" style="border-radius:50%" />
 </p>
