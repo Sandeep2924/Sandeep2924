@@ -60,22 +60,6 @@ const sandeep = {
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sandeep2924&show_icons=true&theme=tokyonight&border_radius=12&border_color=00F7FF&hide_border=false&count_private=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sandeep2924&layout=compact&theme=tokyonight&border_radius=12&border_color=00F7FF&langs_count=8" height="165" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sandeep2924&theme=tokyonight&border_radius=12&border=00F7FF&ring=00F7FF&fire=ff6b6b&currStreakLabel=00F7FF" width="60%" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sandeep2924&theme=tokyo-night&hide_border=false&border_color=00F7FF&radius=8" width="95%" />
-</div>
-
----
 
 ## 🤝 Connect with Me
 
