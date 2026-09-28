@@ -1,10 +1,10 @@
-<div align="center">
+[<div align="center">
 
 <!-- Animated Header Banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Sandeep%20Kumar&fontSize=58&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20AI%20Engineer&descAlignY=58&descSize=20&animation=fadeIn" width="100%"/>
 
 <!-- Profile Avatar (Tip: upload your avatar to an /assets/ folder in this repo for 100% reliable loading) -->
-<img src="https://drive.google.com/uc?export=view&id=1HmCQrb7rHA5giOBnshsOaoXzzJ3bJ2MR" width="125" style="border-radius:50%; border: 3px solid #00F7FF; box-shadow: 0 0 20px rgba(0, 247, 255, 0.4);" />
+<img src="[https://drive.google.com/uc?export=view&id=1HmCQrb7rHA5giOBnshsOaoXzzJ3bJ2MR](https://drive.google.com/file/d/1Zf9EP2dT5inFIGO1ivaEcmg1YdBtqv8B/view?usp=sharing)" width="125" style="border-radius:50%; border: 3px solid #00F7FF; box-shadow: 0 0 20px rgba(0, 247, 255, 0.4);" />
 
 <!-- Typing SVG -->
 <br/>
@@ -101,3 +101,4 @@ const sandeep = {
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
 
 </div>
+](https://drive.google.com/file/d/1Zf9EP2dT5inFIGO1ivaEcmg1YdBtqv8B/view?usp=sharing)
