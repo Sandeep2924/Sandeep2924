@@ -1,14 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Sandeep%20Kumar&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20AI%20%26%20ML%20Researcher&descAlignY=58&descSize=20&animation=fadeIn" width="100%" alt="Header banner" />
-
 <img src="https://github.com/Sandeep2924.png?size=200" width="130" alt="Sandeep Kumar" />
 
-<br/>
+# Sandeep Kumar
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Full+Stack+Developer+%7C+MERN+%26+Next.js;Building+AI-powered+products+with+LLMs;IEEE+researcher%3A+Transfer+Learning+%26+LSTM;Turning+complex+problems+into+clean+code" alt="Typing SVG" />
+### Full Stack Developer | AI & ML Researcher
 
-<br/>
+*Building AI-powered products with the MERN stack, Next.js and LLMs*
 
 <a href="https://linkedin.com/in/sandeep-kumar14"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="https://github.com/Sandeep2924"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
@@ -60,13 +58,13 @@ const sandeep = {
 <div align="center">
 
 **Frontend**<br/>
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,redux,bootstrap" alt="Frontend" />
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" /> <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" /> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" /> <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind" /> <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" alt="Redux" /> <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" /> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
 
 **Backend & Databases**<br/>
-<img src="https://skillicons.dev/icons?i=nodejs,express,python,mongodb,mysql" alt="Backend" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" /> <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" /> <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" /> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" /> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socketdotio&logoColor=white" alt="WebSockets" />
 
-**Data, ML & Tools**<br/>
-<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,vercel,webpack,pandas,numpy" alt="Tools" />
+**Tools & Data**<br/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" /> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /> <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" /> <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" /> <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black" alt="Render" /> <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" /> <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
 
 </div>
 
@@ -114,27 +112,6 @@ Applied transfer learning and domain adaptation to predict heavy-metal bioaccumu
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Sandeep2924&show_icons=true&theme=tokyonight&border_color=00F7FF&bg_color=0f0c29&title_color=00F7FF&text_color=ffffff&icon_color=00F7FF" height="165" alt="GitHub Stats" />
-<img src="https://streak-stats.demolab.com/?user=Sandeep2924&theme=tokyonight&border=00F7FF&background=0f0c29&ring=00F7FF&fire=00F7FF&currStreakNum=ffffff&sideNums=ffffff&sideLabels=00F7FF&dates=a0a0a0" height="165" alt="GitHub Streak" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sandeep2924&layout=compact&theme=tokyonight&border_color=00F7FF&bg_color=0f0c29&title_color=00F7FF&text_color=ffffff" height="150" alt="Top Languages" />
-
-</div>
-
----
-
 ## 🤝 Let's Connect
 
 I'm open to full-stack and AI/ML engineering roles, internships, and research collaboration. The best way to reach me is [email](mailto:sandeepkumar362924@gmail.com) or [LinkedIn](https://linkedin.com/in/sandeep-kumar14).
-
-<div align="center">
-
-![Profile views](https://komarev.com/ghpvc/?username=Sandeep2924&color=00F7FF&style=for-the-badge&label=PROFILE+VIEWS)
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%" alt="Footer" />
-
-</div>
